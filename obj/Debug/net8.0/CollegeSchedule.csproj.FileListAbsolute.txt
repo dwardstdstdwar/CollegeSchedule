@@ -34,3 +34,17 @@ C:\Users\f\Desktop\SCHEDULE\CollegeSchedule\CollegeSchedule\obj\Debug\net8.0\ref
 C:\Users\f\Desktop\SCHEDULE\CollegeSchedule\CollegeSchedule\obj\Debug\net8.0\CollegeSchedule.pdb
 C:\Users\f\Desktop\SCHEDULE\CollegeSchedule\CollegeSchedule\obj\Debug\net8.0\CollegeSchedule.genruntimeconfig.cache
 C:\Users\f\Desktop\SCHEDULE\CollegeSchedule\CollegeSchedule\obj\Debug\net8.0\ref\CollegeSchedule.dll
+C:\Users\f\Desktop\SCHEDULE\CollegeSchedule\CollegeSchedule\bin\Debug\net8.0\DotNetEnv.dll
+C:\Users\f\Desktop\SCHEDULE\CollegeSchedule\CollegeSchedule\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\f\Desktop\SCHEDULE\CollegeSchedule\CollegeSchedule\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\f\Desktop\SCHEDULE\CollegeSchedule\CollegeSchedule\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\f\Desktop\SCHEDULE\CollegeSchedule\CollegeSchedule\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\f\Desktop\SCHEDULE\CollegeSchedule\CollegeSchedule\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\f\Desktop\SCHEDULE\CollegeSchedule\CollegeSchedule\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\f\Desktop\SCHEDULE\CollegeSchedule\CollegeSchedule\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\f\Desktop\SCHEDULE\CollegeSchedule\CollegeSchedule\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\f\Desktop\SCHEDULE\CollegeSchedule\CollegeSchedule\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\f\Desktop\SCHEDULE\CollegeSchedule\CollegeSchedule\bin\Debug\net8.0\Npgsql.dll
+C:\Users\f\Desktop\SCHEDULE\CollegeSchedule\CollegeSchedule\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\f\Desktop\SCHEDULE\CollegeSchedule\CollegeSchedule\bin\Debug\net8.0\Sprache.dll
+C:\Users\f\Desktop\SCHEDULE\CollegeSchedule\CollegeSchedule\obj\Debug\net8.0\CollegeSchedule.sourcelink.json
